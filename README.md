@@ -7,7 +7,7 @@
 - 🎓 **B.Sc. Computer Science**, University of Mumbai — Bhavan's College  
 - 💡 Passionate about building fullstack apps with modern UI/UX  
 - 📍 Based in Mumbai, India
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/aryan-naik-719327378/)
+- 🔗 [🌐 LinkedIn](https://www.linkedin.com/in/aryan-naik-719327378/)
 
 
 ---
