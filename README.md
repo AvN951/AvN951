@@ -5,9 +5,8 @@
 
 ## 🚀 About Me  
 - 💼 Working as a **Database Developer** at *Tech Vision*  
-- 🎓 **B.Sc. Computer Science**, University of Mumbai — *8.1 CGPA*  
-- 💡 Passionate about building scalable apps, optimizing queries & crafting clean UI  
-- 🌱 Currently learning **System Design**, Cloud Deployment & Advanced MERN Patterns  
+- 🎓 **B.Sc. Computer Science**, University of Mumbai — Bhavan's College
+- 💡 Passionate about building fullstack apps with modern design
 - 📍 Based in Mumbai, India  
 
 ---
@@ -17,53 +16,34 @@
 ### **Frontend**
 - React.js  
 - Vite  
-- TailwindCSS / DaisyUI  
+- TailwindCSS 
 - JavaScript (ES6+)  
 - HTML & CSS  
 
 ### **Backend**
 - Node.js  
 - Express.js  
-- MongoDB / Mongoose  
+- MongoDB 
 - REST API Development  
-- MySQL  
+- MySQL
+- PostrgreSQL 
 
 ### **Languages**
 - JavaScript  
 - Python  
-- Java  
+- Java
 - C++  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔧 **Society Maintenance Management System**
-A full system enabling:  
-✔ Residents to check/pay maintenance  
-✔ Admins to generate bills, calculate interest, send reminders  
-✔ Receipt generation & history tracking  
-
-### 🎥 **Online Proctoring System**
-A web application for monitoring exam sessions using:  
-✔ Eye movement detection  
-✔ Head & mouth movement tracking  
-✔ Multi-face detection  
-✔ Time-stamped abnormal-behavior logs  
 
 ---
 
 ## 📫 Contact Me  
 📧 **Email:** naikaryan951@gmail.com  
-📞 **Phone:** 9324034643  
 🌍 **Location:** Mumbai, India  
-
----
-
-## 🎯 Interests  
-🎬 Movies  
-🏊 Swimming  
-🎵 Music  
 
 ---
 
