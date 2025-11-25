@@ -4,7 +4,6 @@
 ---
 
 ## 🚀 About Me  
-- 💼 Working as a **Database Developer** at *Tech Vision*  
 - 🎓 **B.Sc. Computer Science**, University of Mumbai — Bhavan's College
 - 💡 Passionate about building fullstack apps with modern design
 - 📍 Based in Mumbai, India  
