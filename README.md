@@ -12,47 +12,91 @@
 
 ## 🛠️ Tech Stack
 
+---
+
 ### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="40" /> **React.js**
-  <img src="https://skillicons.dev/icons?i=vite" height="40" /> **Vite**
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" /> **TailwindCSS**
-  <img src="https://skillicons.dev/icons?i=js" height="40" /> **JavaScript**
-  <img src="https://skillicons.dev/icons?i=html" height="40" /> **HTML**
-  <img src="https://skillicons.dev/icons?i=css" height="40" /> **CSS**
+<p align="left">
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=react" height="48" /><br/>React.js
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=vite" height="48" /><br/>Vite
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="48" /><br/>TailwindCSS
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=js" height="48" /><br/>JavaScript
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=html" height="48" /><br/>HTML
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=css" height="48" /><br/>CSS
+  </div>
 </p>
 
 ---
 
 ### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" /> **Node.js**
-  <img src="https://skillicons.dev/icons?i=express" height="40" /> **Express.js**
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" /> **MongoDB**
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" /> **MySQL**
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" /> **PostgreSQL**
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" height="30" /> **REST API Development**
+<p align="left">
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="48" /><br/>Node.js
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=express" height="48" /><br/>Express.js
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="48" /><br/>MongoDB
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=mysql" height="48" /><br/>MySQL
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=postgres" height="48" /><br/>PostgreSQL
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" height="30" /><br/>REST API
+  </div>
 </p>
 
 ---
 
 ### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=js" height="40" /> **JavaScript**
-  <img src="https://skillicons.dev/icons?i=python" height="40" /> **Python**
-  <img src="https://skillicons.dev/icons?i=java" height="40" /> **Java**
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" /> **C++**
+<p align="left">
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=js" height="48" /><br/>JavaScript
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=python" height="48" /><br/>Python
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=java" height="48" /><br/>Java
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=cpp" height="48" /><br/>C++
+  </div>
 </p>
 
 ---
 
 ### **DevOps & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="40" /> **Git**
-  <img src="https://skillicons.dev/icons?i=github" height="40" /> **GitHub**
-  <img src="https://skillicons.dev/icons?i=docker" height="40" /> **Docker**
-  <img src="https://skillicons.dev/icons?i=postman" height="40" /> **Postman**
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" /> **VS Code**
+<p align="left">
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=git" height="48" /><br/>Git
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=github" height="48" /><br/>GitHub
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=docker" height="48" /><br/>Docker
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=postman" height="48" /><br/>Postman
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://skillicons.dev/icons?i=vscode" height="48" /><br/>VS Code
+  </div>
 </p>
 
 ---
@@ -61,7 +105,7 @@
 
 ### 📝 **Notes Board**  
 A simple and elegant notes management app.  
-🔗 **GitHub Repo:** https://github.com/AvN951/Notes-Board
+🔗 **GitHub Repo:** https://github.com/AvN951/Notes-Board  
 
 ---
 
