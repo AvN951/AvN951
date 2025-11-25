@@ -12,91 +12,89 @@
 
 ## 🛠️ Tech Stack
 
----
-
 ### **Frontend**
-<p align="left">
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=react" height="48" /><br/>React.js
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=vite" height="48" /><br/>Vite
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="48" /><br/>TailwindCSS
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=js" height="48" /><br/>JavaScript
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=html" height="48" /><br/>HTML
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=css" height="48" /><br/>CSS
-  </div>
+<p>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=react" width="45"/><br>React.js
+  </kbd>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=vite" width="45"/><br>Vite
+  </kbd>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>TailwindCSS
+  </kbd>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript
+  </kbd>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML
+  </kbd>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS
+  </kbd>
 </p>
 
 ---
 
 ### **Backend**
-<p align="left">
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="48" /><br/>Node.js
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=express" height="48" /><br/>Express.js
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="48" /><br/>MongoDB
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=mysql" height="48" /><br/>MySQL
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=postgres" height="48" /><br/>PostgreSQL
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" height="30" /><br/>REST API
-  </div>
+<p>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js
+  </kbd>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express.js
+  </kbd>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB
+  </kbd>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL
+  </kbd>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL
+  </kbd>
+  <kbd>
+    <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" width="70"/><br>REST API
+  </kbd>
 </p>
 
 ---
 
 ### **Languages**
-<p align="left">
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=js" height="48" /><br/>JavaScript
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=python" height="48" /><br/>Python
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=java" height="48" /><br/>Java
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=cpp" height="48" /><br/>C++
-  </div>
+<p>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript
+  </kbd>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python
+  </kbd>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java
+  </kbd>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=cpp" width="45"/><br>C++
+  </kbd>
 </p>
 
 ---
 
 ### **DevOps & Tools**
-<p align="left">
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=git" height="48" /><br/>Git
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=github" height="48" /><br/>GitHub
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=docker" height="48" /><br/>Docker
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=postman" height="48" /><br/>Postman
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 12px;">
-    <img src="https://skillicons.dev/icons?i=vscode" height="48" /><br/>VS Code
-  </div>
+<p>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git
+  </kbd>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub
+  </kbd>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker
+  </kbd>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=postman" width="45"/><br>Postman
+  </kbd>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code
+  </kbd>
 </p>
 
 ---
