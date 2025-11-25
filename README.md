@@ -1,52 +1,79 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi 👋, I'm Aryan Naik</h1>
+<h3 align="center">Full-Stack Developer | MERN Specialist | Database Developer</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+## 🚀 About Me  
+- 💼 Working as a **Database Developer** at *Tech Vision*  
+- 🎓 **B.Sc. Computer Science**, University of Mumbai — *8.1 CGPA*  
+- 💡 Passionate about building scalable apps, optimizing queries & crafting clean UI  
+- 🌱 Currently learning **System Design**, Cloud Deployment & Advanced MERN Patterns  
+- 📍 Based in Mumbai, India  
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+## 🛠️ Tech Stack
 
-###
+### **Frontend**
+- React.js  
+- Vite  
+- TailwindCSS / DaisyUI  
+- JavaScript (ES6+)  
+- HTML & CSS  
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+### **Backend**
+- Node.js  
+- Express.js  
+- MongoDB / Mongoose  
+- REST API Development  
+- MySQL  
 
-###
+### **Languages**
+- JavaScript  
+- Python  
+- Java  
+- C++  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+## 📌 Featured Projects
+
+### 🔧 **Society Maintenance Management System**
+A full system enabling:  
+✔ Residents to check/pay maintenance  
+✔ Admins to generate bills, calculate interest, send reminders  
+✔ Receipt generation & history tracking  
+
+### 🎥 **Online Proctoring System**
+A web application for monitoring exam sessions using:  
+✔ Eye movement detection  
+✔ Head & mouth movement tracking  
+✔ Multi-face detection  
+✔ Time-stamped abnormal-behavior logs  
+
+---
+
+## 📫 Contact Me  
+📧 **Email:** naikaryan951@gmail.com  
+📞 **Phone:** 9324034643  
+🌍 **Location:** Mumbai, India  
+
+---
+
+## 🎯 Interests  
+🎬 Movies  
+🏊 Swimming  
+🎵 Music  
+
+---
+
+## 🌟 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan951&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan951&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+### ✨ *Thanks for visiting my profile!*  
+Feel free to explore my repositories and connect with me!
