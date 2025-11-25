@@ -4,8 +4,8 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **B.Sc. Computer Science**, University of Mumbai — Bhavan's College
-- 💡 Passionate about building fullstack apps with modern design
+- 🎓 **B.Sc. Computer Science**, University of Mumbai — Bhavan's College  
+- 💡 Passionate about building fullstack apps with modern design  
 - 📍 Based in Mumbai, India  
 
 ---
@@ -13,45 +13,38 @@
 ## 🛠️ Tech Stack
 
 ### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="40" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" />
-</p>
+- React.js  
+- Vite  
+- TailwindCSS  
+- JavaScript (ES6+)  
+- HTML  
+- CSS  
 
 ### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" height="30" />
-</p>
+- Node.js  
+- Express.js  
+- MongoDB  
+- MySQL  
+- PostgreSQL  
+- REST API Development  
 
 ### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=js" height="40" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" />
-</p>
+- JavaScript  
+- Python  
+- Java  
+- C++  
 
 ---
 
-## 📌 Featured Projects
-Notes Board : https://github.com/AvN951/Notes-Board
+## 📌 Featured Projects  
+### **Notes Board**  
+🔗 https://github.com/AvN951/Notes-Board
 
 ---
 
 ## 📫 Contact Me  
 📧 **Email:** naikaryan951@gmail.com  
 🌍 **Location:** Mumbai, India  
-
-
 
 ---
 
